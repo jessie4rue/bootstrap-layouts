@@ -13,4 +13,9 @@
 
 .customband1 {
 	background-color: #000;
+	padding-top: 10px;
+}
+
+.customnav {
+	background-color: #003366;
 }
